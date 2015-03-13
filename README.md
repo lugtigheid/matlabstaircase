@@ -1,4 +1,4 @@
-# matlabstaircase
+# matlabstaircase: A transformed up/down staircase (Levitt, 1971) algorithm for Matlab
 
 This is an implementation of a simple adaptive (up/down) staircase procedure (Levitt, 1971) for use in Matlab. It allows for interleaving of multiple staircases and has been designed to be as flexible as possible.
 
